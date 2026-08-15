@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/PushkarBhoge/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PushkarBhoge/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PushkarBhoge/leetcode/tree/master/0136-single-number) |
+| [3731-find-missing-elements](https://github.com/PushkarBhoge/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PushkarBhoge/leetcode/tree/master/0088-merge-sorted-array) |
+| [3731-find-missing-elements](https://github.com/PushkarBhoge/leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PushkarBhoge/leetcode/tree/master/0141-linked-list-cycle) |
+| [3731-find-missing-elements](https://github.com/PushkarBhoge/leetcode/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
