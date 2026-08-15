@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/PushkarBhoge/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PushkarBhoge/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/PushkarBhoge/leetcode/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PushkarBhoge/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/PushkarBhoge/leetcode/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PushkarBhoge/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PushkarBhoge/leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PushkarBhoge/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
