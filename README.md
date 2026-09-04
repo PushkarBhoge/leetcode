@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PushkarBhoge/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/PushkarBhoge/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PushkarBhoge/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/PushkarBhoge/leetcode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PushkarBhoge/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PushkarBhoge/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PushkarBhoge/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PushkarBhoge/leetcode/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/PushkarBhoge/leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PushkarBhoge/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PushkarBhoge/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PushkarBhoge/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/PushkarBhoge/leetcode/tree/master/0242-valid-anagram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PushkarBhoge/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PushkarBhoge/leetcode/tree/master/3731-find-missing-elements) |
