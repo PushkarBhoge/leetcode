@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/PushkarBhoge/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/PushkarBhoge/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PushkarBhoge/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/PushkarBhoge/leetcode/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PushkarBhoge/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PushkarBhoge/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PushkarBhoge/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/PushkarBhoge/leetcode/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/PushkarBhoge/leetcode/tree/master/0257-binary-tree-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PushkarBhoge/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
