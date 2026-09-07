@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PushkarBhoge/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PushkarBhoge/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PushkarBhoge/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/PushkarBhoge/leetcode/tree/master/0263-ugly-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PushkarBhoge/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PushkarBhoge/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
