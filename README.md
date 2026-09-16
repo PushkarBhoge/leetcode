@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PushkarBhoge/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/PushkarBhoge/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PushkarBhoge/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PushkarBhoge/leetcode/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/PushkarBhoge/leetcode/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PushkarBhoge/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PushkarBhoge/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PushkarBhoge/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PushkarBhoge/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/PushkarBhoge/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/PushkarBhoge/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PushkarBhoge/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PushkarBhoge/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PushkarBhoge/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PushkarBhoge/leetcode/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
