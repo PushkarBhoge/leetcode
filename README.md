@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/PushkarBhoge/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/PushkarBhoge/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PushkarBhoge/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/PushkarBhoge/leetcode/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/PushkarBhoge/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PushkarBhoge/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PushkarBhoge/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/PushkarBhoge/leetcode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/PushkarBhoge/leetcode/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PushkarBhoge/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PushkarBhoge/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
