@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PushkarBhoge/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/PushkarBhoge/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/PushkarBhoge/leetcode/tree/master/0383-ransom-note) |
 | [3498-reverse-degree-of-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PushkarBhoge/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/PushkarBhoge/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PushkarBhoge/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/PushkarBhoge/leetcode/tree/master/0383-ransom-note) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PushkarBhoge/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PushkarBhoge/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/PushkarBhoge/leetcode/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
