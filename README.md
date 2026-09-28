@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PushkarBhoge/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/PushkarBhoge/leetcode/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/PushkarBhoge/leetcode/tree/master/0409-longest-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PushkarBhoge/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PushkarBhoge/leetcode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/PushkarBhoge/leetcode/tree/master/0409-longest-palindrome) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PushkarBhoge/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PushkarBhoge/leetcode/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/PushkarBhoge/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
