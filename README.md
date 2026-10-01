@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PushkarBhoge/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PushkarBhoge/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/PushkarBhoge/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/PushkarBhoge/leetcode/tree/master/0415-add-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PushkarBhoge/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PushkarBhoge/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PushkarBhoge/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/PushkarBhoge/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/PushkarBhoge/leetcode/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/PushkarBhoge/leetcode/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PushkarBhoge/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PushkarBhoge/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PushkarBhoge/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/PushkarBhoge/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PushkarBhoge/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/PushkarBhoge/leetcode/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
