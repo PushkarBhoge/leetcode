@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PushkarBhoge/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/PushkarBhoge/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PushkarBhoge/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/PushkarBhoge/leetcode/tree/master/0441-arranging-coins) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PushkarBhoge/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/PushkarBhoge/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PushkarBhoge/leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/PushkarBhoge/leetcode/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/PushkarBhoge/leetcode/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PushkarBhoge/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PushkarBhoge/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
