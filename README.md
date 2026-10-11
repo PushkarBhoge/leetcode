@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PushkarBhoge/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/PushkarBhoge/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PushkarBhoge/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/PushkarBhoge/leetcode/tree/master/0500-keyboard-row) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/PushkarBhoge/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PushkarBhoge/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/PushkarBhoge/leetcode/tree/master/0500-keyboard-row) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PushkarBhoge/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/PushkarBhoge/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PushkarBhoge/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/PushkarBhoge/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/PushkarBhoge/leetcode/tree/master/0500-keyboard-row) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PushkarBhoge/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
