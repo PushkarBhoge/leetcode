@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PushkarBhoge/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PushkarBhoge/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PushkarBhoge/leetcode/tree/master/0500-keyboard-row) |
+| [0566-reshape-the-matrix](https://github.com/PushkarBhoge/leetcode/tree/master/0566-reshape-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PushkarBhoge/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PushkarBhoge/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PushkarBhoge/leetcode/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/PushkarBhoge/leetcode/tree/master/0566-reshape-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/PushkarBhoge/leetcode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/PushkarBhoge/leetcode/tree/master/0566-reshape-the-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
