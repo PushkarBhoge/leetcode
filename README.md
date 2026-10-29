@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PushkarBhoge/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PushkarBhoge/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/PushkarBhoge/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PushkarBhoge/leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/PushkarBhoge/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/PushkarBhoge/leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/PushkarBhoge/leetcode/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PushkarBhoge/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PushkarBhoge/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/PushkarBhoge/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/PushkarBhoge/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/PushkarBhoge/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/PushkarBhoge/leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
