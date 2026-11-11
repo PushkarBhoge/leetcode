@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/PushkarBhoge/leetcode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/PushkarBhoge/leetcode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/PushkarBhoge/leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/PushkarBhoge/leetcode/tree/master/0704-binary-search) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PushkarBhoge/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PushkarBhoge/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/PushkarBhoge/leetcode/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/PushkarBhoge/leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
