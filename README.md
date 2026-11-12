@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/PushkarBhoge/leetcode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/PushkarBhoge/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/PushkarBhoge/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/PushkarBhoge/leetcode/tree/master/0705-design-hashset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/PushkarBhoge/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PushkarBhoge/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PushkarBhoge/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/PushkarBhoge/leetcode/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/PushkarBhoge/leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/PushkarBhoge/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PushkarBhoge/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/PushkarBhoge/leetcode/tree/master/0705-design-hashset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PushkarBhoge/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PushkarBhoge/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/PushkarBhoge/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PushkarBhoge/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/PushkarBhoge/leetcode/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/PushkarBhoge/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/PushkarBhoge/leetcode/tree/master/0705-design-hashset) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
