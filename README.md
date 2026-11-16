@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/PushkarBhoge/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PushkarBhoge/leetcode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/PushkarBhoge/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/PushkarBhoge/leetcode/tree/master/0724-find-pivot-index) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PushkarBhoge/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/PushkarBhoge/leetcode/tree/master/0724-find-pivot-index) |
 ## Geometry
 |  |
 | ------- |
