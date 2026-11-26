@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PushkarBhoge/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/PushkarBhoge/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PushkarBhoge/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/PushkarBhoge/leetcode/tree/master/0766-toeplitz-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PushkarBhoge/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/PushkarBhoge/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/PushkarBhoge/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/PushkarBhoge/leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/PushkarBhoge/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
