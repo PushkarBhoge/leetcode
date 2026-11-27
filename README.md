@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/PushkarBhoge/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/PushkarBhoge/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/PushkarBhoge/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/PushkarBhoge/leetcode/tree/master/0771-jewels-and-stones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PushkarBhoge/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/PushkarBhoge/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PushkarBhoge/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/PushkarBhoge/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PushkarBhoge/leetcode/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/PushkarBhoge/leetcode/tree/master/0771-jewels-and-stones) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PushkarBhoge/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PushkarBhoge/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PushkarBhoge/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
